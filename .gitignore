@@ -9,3 +9,9 @@ out/
 
 # Dotenv file
 .env
+
+# Node
+node_modules/
+
+# Vscode
+/.vscode
