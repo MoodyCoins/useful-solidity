@@ -2,6 +2,7 @@
   "name": "useful-solidity",
   "version": "1.0.0",
   "description": "Useful smart contracts",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MoodyCoins/useful-solidity.git"
